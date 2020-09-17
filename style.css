@@ -1,0 +1,73 @@
+
+div.sixfifty {
+	width: 650px;
+}
+
+div#media {
+	width: 1350px;
+}
+
+div#video {
+	width:650px;
+	background-color: #dcdcdc;
+	border: #00008b 2px dashed;
+	float: left;
+}
+
+div#songs {
+	width:650px;
+	background-color: #dcdcdc;
+	border: #00008b 2px dashed;
+	float: right;
+}
+
+div#validator {
+	float: right;
+}
+
+ul#ul-audio > li {
+	display: none;
+}
+
+.booked-class {
+	background-color: #92f238
+}
+
+.center {
+	margin:	auto;
+	text-align: center;
+}
+
+.timeslot {
+	background-color: #c2d0d1;
+}
+
+body {
+	font-family: Arial;
+	background-color: #b3ffff;
+}
+
+iframe {
+	width: 640px;
+	height: 480px;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+table {
+	width:600px;
+}
+
+th {
+	width: 100px;
+}
+
+td {
+	background-color: #89f0f5;
+}
+
+li{
+	margin: 15px 0;
+}
